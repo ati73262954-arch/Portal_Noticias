@@ -26,3 +26,9 @@ header {
     font-size: 0.85rem;
     padding: 0.5em 0.8em;
 }
+
+.noticia-ciberseguridad {
+    background-color: green;
+    color: #f8f9fa;
+    text-align: center;
+}
