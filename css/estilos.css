@@ -27,6 +27,12 @@ header {
     padding: 0.5em 0.8em;
 }
 
+#noticia-ia {
+    background-color: rgb(136, 183, 234);
+    color: #f8f9fa;
+    text-align: center;
+}
+
 #noticia-ciberseguridad {
     background-color: rgb(136, 183, 234);
     color: #f8f9fa;
